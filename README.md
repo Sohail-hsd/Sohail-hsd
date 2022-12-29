@@ -1,12 +1,17 @@
 
-<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'am Sohail HSD </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+
+ <div align="center">
+
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;Active+Learning+Cyber+Security,;Love+to+learn+new+stuffs..<3"></a>![Instagram](https://user-images.githubusercontent.com/70771040/209979682-b82e79f8-74bf-4f4d-9d89-f2ead8c1cf40.svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=600&pause=595&color=32CA4F&center=true&vCenter=true&multiline=true&width=1560&height=200&lines=%F0%9F%91%80+I%E2%80%99m+interested+in+programming+and+cyber+security.;%F0%9F%8C%B1+I%E2%80%99m+currently+working+on+Next.js.;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+programming%2C+cyber+security+(tools)+mostly+in+python+but+would+like+to+work+on+other+language." alt="Typing SVG" /></a>
 </p>
-![Figma](https://user-images.githubusercontent.com/70771040/209979056-57fb43ad-37bd-47a0-950a-ab0c921200bf.svg)![Github](https://user-images.githubusercontent.com/70771040/209980028-f0e95038-f00a-4060-b5d2-79a03335620e.svg)
-
 
 
 <br>
