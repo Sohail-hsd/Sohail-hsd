@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=600&pause=595&color=32CA4F&center=true&vCenter=true&multiline=true&width=1560&height=200&lines=%F0%9F%91%80+I%E2%80%99m+interested+in+programming+and+cyber+security.;%F0%9F%8C%B1+I%E2%80%99m+currently+working+on+Next.js.;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+programming%2C+cyber+security+(tools)+mostly+in+python+but+would+like+to+work+on+other+language." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=600&pause=295&color=32CA4F&center=true&vCenter=true&multiline=true&width=1560&height=100&lines=%F0%9F%91%80+I%E2%80%99m+interested+in+programming+and+cyber+security.;%F0%9F%8C%B1+I%E2%80%99m+currently+working+on+Next.js.;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+programming%2C+cyber+security+(tools)+mostly+in+python+but+would+like+to+work+on+other+language." alt="Typing SVG" /></a>
 </p>
 
 
