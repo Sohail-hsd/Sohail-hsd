@@ -57,14 +57,12 @@
     <picture> <img align="left" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width = 150px></picture>
     <picture> <img align="left" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/atom.svg" width = 150px></picture>
     <picture> <img align="left" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/android-studio.svg" width = 150px></picture>
-     <picture> <img align="left" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/intellij.svg" width = 150px></picture>
-     <picture> <img align="left" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/pycharm.svg" width = 150px></picture>
-        
-
+    <picture> <img align="left" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/intellij.svg" width = 150px></picture>
+    <picture> <img align="left" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/pycharm.svg" width = 150px></picture>
 <br>
 <br>
 <br>
-  </p> 
+</p> 
 
 
 <br>
