@@ -36,80 +36,54 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
 <p align="center">
- <h1 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages</h1>
-    <picture> <img align="left" src="https://user-images.githubusercontent.com/70771040/209985873-d4173b81-328e-45cc-b9f0-2cfb80919c33.svg" width = 150px></picture>
-    <picture> <img align="left" src="https://user-images.githubusercontent.com/70771040/209985901-65c73a3b-2472-4431-9cd7-00b99254d796.svg" width = 150px></picture>
-    <picture> <img align="left" src="https://user-images.githubusercontent.com/70771040/209985934-a3cc9c59-ebbf-4cda-b6a5-efe70f3c0616.svg" width = 150px></picture>
-    <picture> <img align="left" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/go.svg" width = 150px></picture>
-    <picture> <img align="left" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" width = 150px></picture>
+
+- **Languages**:
+    
+    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+<br>   
+    
+- **Front-End Development**:
+
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![React](https://img.shields.io/badge/React%20-%231572B6.svg?style=for-the-badge&logo=React&logoColor=white)
+
+<br>
+
+- **Cloud Hosting**:
+
+    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    
+<br>
+
+- **Softwares and Tools**:
+
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
+<br>
+
+- **Extras**:
+
+    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+
+
+
 </p>
 
 <br>
-<br>
-<br>
-    
-<p align="center">
-<br>
-<br>
-<br>
-<h1 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Editors</h1>
-    <picture> <img align="left" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width = 150px></picture>
-    <picture> <img align="left" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/atom.svg" width = 150px></picture>
-    <picture> <img align="left" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/android-studio.svg" width = 150px></picture>
-    <picture> <img align="left" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/intellij.svg" width = 150px></picture>
-    <picture> <img align="left" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/pycharm.svg" width = 150px></picture>
-<br>
-<br>
-<br>
-</p> 
-
-
-<br>
-<br>
-<br>
-
-<p align="center">
-<br>
-<br>
-<br>
-<h1 align="left"><b>Database</h1>
-    <picture> <img align="left" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" width = 150px></picture>
-        <picture> <img align="left" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" width = 150px></picture>
-        <picture> <img align="left" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/oracle.svg" width = 150px></picture>
-        <picture> <img align="left" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg" width = 150px></picture>
-        <picture> <img align="left" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/redis.svg" width = 150px></picture>
-<br>
-<br>
-<br>
-</p> 
-
-
-<br>
-<br>
-<br>
-
-<p align="center">
-<br>
-<br>
-<br>
-<h1 align="left"><b>Framework</h1>
-    <picture> <img align="left" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" width = 150px></picture>
-        <picture> <img align="left" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" width = 150px></picture>
-        <picture> <img align="left" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/django.svg" width = 150px></picture>
-        <picture> <img align="left" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" width = 150px></picture>
-        <picture> <img align="left" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/redux.svg" width = 150px></picture>
-        
-<br>
-<br>
-<br>
-</p> 
-
-
-<br>
-<br>
-<br>
-
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -156,4 +130,15 @@
 <br>
 <br>
 
+---
 
+<br>
+
+Last Edited on: 09/11/2022
+
+
+
+<!---
+Sohail-hsd/Sohail-hsd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
