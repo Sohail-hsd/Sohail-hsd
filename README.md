@@ -2,12 +2,10 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Sohail%20Muhammad&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header"/>
 </div>
+
 ### 💼 Software Quality Assurance Engineer | 🚀 Full Stack Developer | 🔐 Security Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Quality+Software+%F0%9F%92%BB;Manual+%26+Automated+Testing+Expert+%E2%9C%85;Security+Testing+Specialist+%F0%9F%94%92;Next.js+%26+React+Developer+%E2%9A%9B%EF%B8%8F)](https://git.io/typing-svg)
-
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=1000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Quality+Software+%F0%9F%92%BB;Manual+%26+Automated+Testing+Expert+%E2%9C%85;Security+Testing+Specialist+%F0%9F%94%92;Next.js+%26+React+Developer+%E2%9A%9B%EF%B8%8F)](https://git.io/typing-svg)
 
 ---
 
