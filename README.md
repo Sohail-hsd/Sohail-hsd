@@ -172,10 +172,10 @@ const sohail = {
 
 <div align="start">
 
-📧 **Email:** your.email@example.com  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
-🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+📧 **Email:** knight.hsd19@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/sohail-muhammad](https://www.linkedin.com/in/sohail-muhammad-5aa251200/)  
+🌐 **Portfolio:** [sohail-hsd.com](https://sohail-hsd.github.io/)  
+🐦 **Twitter:** [@SOHAIL_HSD](https://x.com/SOHAIL_HSD)
 
 ### 💬 Open for collaborations on:
 **🔹 Open Source Projects | 🔹 Security Tools | 🔹 Testing Frameworks | 🔹 Web Development**
